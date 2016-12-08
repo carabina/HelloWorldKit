@@ -10,7 +10,7 @@ import Foundation
 
 public class HelloWorldInterface {
    
-   public class func abc(vc: UIViewController) {
+   public func showView(vc: UIViewController) {
       vc.present(ViewController(), animated: true, completion: nil);
    }
    
