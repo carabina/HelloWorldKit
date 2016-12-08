@@ -2,7 +2,11 @@
 //  HelloWorldKit.h
 //  HelloWorldKit
 //
+<<<<<<< HEAD
 //  Created by Bryan Yeung on 7/12/2016.
+=======
+//  Created by Bryan Yeung on 5/12/2016.
+>>>>>>> 7d54cf507d7700252e437c23921e209bd82ab898
 //  Copyright © 2016 Bryan Yeung. All rights reserved.
 //
 
